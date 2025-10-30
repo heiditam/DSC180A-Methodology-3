@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Heidi Tam
-hetam@ucsd.edu
+Heidi Tam and Jasmine Hong
